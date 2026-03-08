@@ -35,7 +35,6 @@ The dataset contains historical **Toyota stock price data** including:
 | 🔼 High | Highest price of the day |
 | 🔽 Low | Lowest price of the day |
 | 💰 Close | Closing stock price |
-| 📊 Adj Close | Adjusted closing price |
 | 🔢 Volume | Number of shares traded |
 
 The **Closing Price** variable is mainly used for the time series analysis.
